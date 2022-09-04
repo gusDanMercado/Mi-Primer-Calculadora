@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input {
+    display: block;
+    
+    margin: auto; /*centra al medio los inputs*/
+    margin-bottom: 15px;
+}
